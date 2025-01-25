@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(249, 244, 255);
+  font-family: "Rubik Moonrocks", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+ p {
+ background-color: rgba(122, 71, 170, 0.185);
+ color: rgb(47, 134, 21);
+ }
+ h1 {
+    color: rgb(28, 99, 99);
+    text-align: center;
+
+ }
+ h2 {
+  background-color: rgb(169, 112, 223);
+  color: rgb(33, 0, 65);
+  padding: 20px;
+  border-radius: 25px;
+ }
+ img {
+  border-radius:25px;
+  margin: 10px;
+  
+ }
+ footer {
+   background-color: rgb(229, 203, 253);
+  padding: 15px;
+  margin: 10px;
+  margin-top: 10px;
+ }
+ nav {
+
+background-color: rgb(211, 255, 240);
+  padding: 20px;
+  margin: 15px;
+ }
+ nav a {
+   margin: 80px;
+  font-size: 20px;
+   text-decoration: none;
+   color: rgb(109, 44, 163);
+ }
+ .lo {
+   background-color: rgba(138, 77, 187, 0.692);
+   color: rgb(249, 218, 255);
+   padding: 10px;
+   border-radius: 30px;
+   text-decoration: none;
+   margin-bottom:30px;
+ }
